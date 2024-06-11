@@ -23,7 +23,7 @@ This tool evaluates candidate CVs against a specified job title using OpenAI's G
 ## Installation
 
 1. **Clone the repository:**
-   - git clone https://github.com/your-repository.git
+   - git clone https://github.com/SirSicard/LLM-CV-Assessment
 
 2. **Navigate to the project directory:**
    - cd your-repository
