@@ -31,6 +31,9 @@ This tool evaluates candidate CVs against a specified job title using OpenAI's G
 3. **Install the required packages:**
    - pip install openai PyMuPDF python-docx
 
+4. **If you get the error message You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0" run this command**
+   - pip install openai==0.28
+
 
 ## Usage
 

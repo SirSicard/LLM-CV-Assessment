@@ -6,7 +6,7 @@ import fitz  # PyMuPDF for PDF reading
 import docx  # docx for Word document reading
 
 # API Key from OpenAI, this can easily be upgraded to use environment variables for a more secure code
-openai.api_key = ('Insert key here')  
+openai.api_key = ('Insert API key here')  
 
 # Setup logging configuration.
 # Level INFO captures informational messages that highlight the progress of the application.
